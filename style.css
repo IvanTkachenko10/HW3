@@ -1,22 +1,13 @@
-body {
-    text-align: center
-}
+
 
 h1{
-    text-align: left;
+    
     font-size: 50px;
 }
 
 
-.qq{
-text-align: left;
-}
-
 
 h2{
-    text-align: left;
-    margin-left: 40px;
-    margin-bottom: 40px;
     font-size: 25px;
 }
 
@@ -36,57 +27,58 @@ p{
 }
 
 h3{
-    text-align: left;
     margin-left: 40px;
     font-size: 30px;
 }
 
 h4{
-    text-align: left;
     margin-left: 40px;
     font-size: 30px;
 }
 
 h5{
-    text-align: left;
     margin-left: 40px;
     font-size: 23px;
 }
 
+.thalik{
+font-size: 30px;
+
+}
 
 
 
 ul{
-    text-align: left;
+    
     margin-left: 80px;
 }
 
 ol{
-    text-align: left;
+    
     margin-left: 80px;
 }
 
-.ggg{
+.section{
     text-align: left;
     margin-left: 80px;
     font-size: 23px;
     margin-bottom: 20px;
 }
 
-.rrr{
-    text-align: left;
+.countries{
+    
     font-size: 14px;
     margin: 80px; ;
     margin-top: 15px;
 }
 
 h6{
-    text-align: left;
+    
     margin-left: 40px;
     font-size: 33px;
 }
 
-.ttt{
+.ukrzoloto{
     font-size: 23px;
     
 }
